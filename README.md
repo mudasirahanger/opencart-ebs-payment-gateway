@@ -31,8 +31,3 @@ To check the integration process in localhost(Unregistered domain), kindly use t
 
  Name of the Issuing Bank: EBS 
  Note: No other Card number would be accepted by the Gateway for test phase.
-<<<<<<< HEAD
-=======
-
-
->>>>>>> ca0ff1d18e278beffb1ab24c0eed93f17776375f
